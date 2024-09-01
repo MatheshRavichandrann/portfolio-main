@@ -7,12 +7,19 @@ export const Home = () => {
                 <img className="profile-image md:w-64 md:h-[290px] sm:w-64 sm:h-64 max-sm:w-48 max-sm:h-56" src={img} alt="" />
             </div>
             <div className="content-text  font-font-poppins">
-                <h2 className=' md:text-4xl sm:text-2xl'>Hi I'm<span className='md:text-5xl max-sm:text-4xl'> MATHESH RAVICHANDRAN </span></h2>
+                <h2 className=' md:text-4xl sm:text-2xl'>Hi, I'm<span className='md:text-5xl max-sm:text-4xl'> MATHESH RAVICHANDRAN </span></h2>
                 <p className='md:text-xl sm:text-xs w-5/6 '>
-                    I'm a seasoned FullStack Developer with years of extensive experience.
+                   {/* I'm a seasoned FullStack Developer with years of extensive experience. */}
+                   I’m a seasoned Backend Developer with extensive experience and a robust knowledge of Data Structures and Algorithms (DSA)
                 </p>
-                <p className=" md:text-xl sm:text-xs w-5/6">My expertise lies in designing, developing, and more..,</p>
-                <p className='md:text-xl sm:text-xs w-5/6'>to create impactful websites..</p>
+                <p className=" md:text-xl sm:text-xs w-5/6"> 
+                {/* My expertise lies in designing, developing, and more.., */}
+                I specialize in designing, developing, and beyond...
+                </p>
+                <p className='md:text-xl sm:text-xs w-5/6'>
+                {/* to create impactful websites.. */}
+                to build impactful and efficient applications
+                </p>
             </div>
             <a href="#end" className=" md:text-xl  sm:text-xs m-4 text-center hover:bg-[rgba(0,0,0,0.94)] px-8 py-2 bg-[#000000] rounded-full text-white font-light transition duration-200 ease-linear">Connect With Me </a>
         </section>
