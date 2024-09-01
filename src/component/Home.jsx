@@ -10,7 +10,7 @@ export const Home = () => {
                 <h2 className=' md:text-4xl sm:text-2xl'>Hi, I'm<span className='md:text-5xl max-sm:text-4xl'> MATHESH RAVICHANDRAN </span></h2>
                 <p className='md:text-xl sm:text-xs w-5/6 '>
                    {/* I'm a seasoned FullStack Developer with years of extensive experience. */}
-                   I’m a seasoned Backend Developer with extensive experience and a robust knowledge of Data Structures and Algorithms (DSA)
+                   I’m a seasoned Backend Developer with extensive experience and a robust knowledge of Data Structures and Algorithms
                 </p>
                 <p className=" md:text-xl sm:text-xs w-5/6"> 
                 {/* My expertise lies in designing, developing, and more.., */}
