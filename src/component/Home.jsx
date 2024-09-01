@@ -7,7 +7,7 @@ export const Home = () => {
                 <img className="profile-image md:w-64 md:h-[290px] sm:w-64 sm:h-64 max-sm:w-48 max-sm:h-56" src={img} alt="" />
             </div>
             <div className="content-text  font-font-poppins">
-                <h2 className=' md:text-4xl sm:text-2xl'>Hi, I'm<span className='md:text-5xl max-sm:text-4xl'>Mathesh Ravichandran</span></h2>
+                <h2 className=' md:text-4xl sm:text-2xl'>Hi I'm<span className='md:text-5xl max-sm:text-4xl'> MATHESH RAVICHANDRAN </span></h2>
                 <p className='md:text-xl sm:text-xs w-5/6 '>
                     I'm a seasoned FullStack Developer with years of extensive experience.
                 </p>
