@@ -12,11 +12,10 @@ export const Contact = () => {
       <div className="flex items-center justify-center  h-[40rem] rounded-2xl w-full">
       <TextRevealCard
         text="mathesh1907@gmail.com"
-        // revealText="guna.asin06@gmail.com"
-        revealText="  +91 9360599740"
+        revealText="      +91 9360599740"
       >
         <TextRevealCardTitle className={'font-popins'}>
-         Contact Us 
+         Contact Me
         </TextRevealCardTitle>
         <TextRevealCardDescription className={'font-popins'}>
         we're committed to providing timely and helpful responses to all inquiries. Don't hesitate to get in touch – we're here to help !

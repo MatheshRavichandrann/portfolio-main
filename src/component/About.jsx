@@ -1,11 +1,6 @@
 import TextGenerateEffect from "./text-generate-effect";
 
-const words = `Harmonizing the artistry of design with the precision of technology,
-my portfolio reflects a rich tapestry of skills. Seamlessly weaving together web development, 
-photography, design, app creation, video editing, and SEO finesse, I specialize in sculpting immersive digital landscapes. 
-Here, innovation seamlessly merges with functionality, ensuring each project shines amidst the digital cacophony. 
-Whether it's breathing life into dynamic websites or orchestrating strategic SEO maneuvers for organic growth,
- I'm passionately committed to crafting captivating digital odysseys that resonate with audiences across the globe.
+const words = `Fusing the creativity of design with the exactness of technology, my portfolio showcases my proficiency in Java and backend development. With a focus on web development and app creation, I leverage my knowledge of Data Structures and Algorithms (DSA) to build impactful digital solutions. Each project is crafted with a balance of innovation and functionality, ensuring it stands out in the digital landscape. From developing robust applications to optimizing performance through strategic problem-solving, I’m committed to creating engaging and effective digital experiences.
 `;
  
 export const About = () => {
