@@ -4,7 +4,7 @@ export const Home = () => {
         <section className="home w-screen h-screen  flex flex-col items-center justify-center text-center" >
             <div id="stars3"></div>
             <div className="image md:w-60 md:h-60 max-sm:w-48 max-sm:h-48 mt-14 ">
-                <img className="profile-image md:w-64 md:h-[290px] sm:w-64 sm:h-64 max-sm:w-48 max-sm:h-56" src={img} alt="" />
+                <img className="profile-image md:w-64 md:h-[290px] sm:w-64 sm:h-64 max-sm:w-48 max-sm:h-56" src={img} alt=""  draggable="false" />
             </div>
             <div className="content-text  font-font-poppins">
                 <h2 className=' md:text-4xl sm:text-2xl'>Hi, I'm<span className='md:text-5xl max-sm:text-4xl'> MATHESH RAVICHANDRAN </span></h2>
