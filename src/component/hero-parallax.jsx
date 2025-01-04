@@ -16,11 +16,11 @@ export const HeroParallax = ({ products }) => {
   const springConfig = { stiffness: 300, damping: 30, bounce: 100 };
 
   const translateX = useSpring(
-    useTransform(scrollYProgress, [0, 1], [0, 1000]),
+    useTransform(scrollYProgress, [0, 1], [0, 800]),
     springConfig
   );
   const translateXReverse = useSpring(
-    useTransform(scrollYProgress, [0, 1], [0, -1000]),
+    useTransform(scrollYProgress, [0, 1], [0, -800]),
     springConfig
   );
   const rotateX = useSpring(
@@ -104,7 +104,7 @@ export const Header = () => {
       <h1 className="text-2xl md:text-7xl font-bold project-text">
         The Ultimate <br /> Projects
       </h1>
-      <p className="max-w-2xl text-base md:text-xl mt-8 project-textp">
+      <p className="max-w-2xl text-base md:text-xl mt-8 project-textp font-popin">
         Design and developed beautiful products with the latest technologies and frameworks.
       
       </p>
@@ -127,9 +127,9 @@ export const Header = () => {
       <a href={product.link} className="block group-hover/product:shadow-2xl">
         <img
           src={product.thumbnail}
-          height="600"
-          width="600"
-          className="object-cover object-left-top absolute h-full w-full inset-0"
+          // height="600"
+          // width="600"
+          className="object-cover object-left-top absolute  w-fit inset-0 h-fit"
           alt={product.title}
         />
       </a>

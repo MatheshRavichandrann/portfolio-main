@@ -41,8 +41,8 @@ export const Projectmin = () => {
             thumbnail: po3,
         },
         {
-            title: "Music & Movie",
-            link: "https://songsmoviesmth.vercel.app/",
+            title: "amazon clone",
+            link: "https://amazon-in-tau.vercel.app/",
             thumbnail: po4,
         },
       
@@ -54,8 +54,8 @@ export const Projectmin = () => {
                 <a key={index} href={product.link} className="block my-5 ">
                     <img
                         src={product.thumbnail}
-                        height="320"
-                        width="320"
+                        height="350"
+                        width="360"
                         className="rounded-md"
                         alt={product.title}
                     />
