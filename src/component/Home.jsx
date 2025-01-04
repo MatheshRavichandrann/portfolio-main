@@ -1,4 +1,4 @@
-import img from '../assets/mth.jpg';
+import img from '../assets/guna.jpg';
 export const Home = () => {
     return (
         <section className="home w-screen h-screen  flex flex-col items-center justify-center text-center" >
