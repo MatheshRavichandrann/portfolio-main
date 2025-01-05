@@ -23,35 +23,14 @@ export const Contact = () => {
         </TextRevealCardDescription>
       </TextRevealCard>
     </div>
-          <div className="flex items-center justify-center w-screen endofera">
+    <div className="flex items-center justify-center w-screen endofera" >
         <ul className="flex">
-          <li className="project-textp md:text-3xl sm:text-xl mx-8 my-4 ease-in duration-200 hover:my-1">
-            <a href="https://www.linkedin.com/in/mathesh-ravichandravelu-429a4b240/">
-              <i className="fa-brands fa-linkedin-in"></i>
-            </a>
-          </li>
-          <li className="project-textp md:text-3xl sm:text-xl mx-8 my-4 ease-in duration-200 hover:my-1">
-            <a href="https://github.com/MatheshRavichandrann">
-              <i className="fa-brands fa-github"></i>
-            </a>
-          </li>
-          <li className="project-textp md:text-3xl sm:text-xl mx-8 my-4 ease-in duration-200 hover:my-1">
-            <a href="mailto:mathesh1907@gmail.com">
-              <i className="fa-solid fa-envelope"></i>
-            </a>
-          </li>
-          <li className="project-textp md:text-3xl sm:text-xl mx-8 my-4 ease-in duration-200 hover:my-1">
-            <a href="https://leetcode.com/u/Mathesh-Ravichandran/">
-              <img 
-                src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" 
-                alt="LeetCode" 
-                style={{ width: "24px", height: "24px" }}
-              />
-            </a>
-          </li>
+          <li className="project-textp md:text-3xl sm:text-xl mx-8 my-4 ease-in duration-200 hover:my-1"><a href="https://www.linkedin.com/in/mathesh-ravichandravelu-429a4b240/"><i class="fa-brands fa-linkedin-in"></i></a></li>
+          <li className="project-textp md:text-3xl sm:text-xl mx-8 my-4 ease-in duration-200 hover:my-1"><a href="https://github.com/MatheshRavichandrann"><i class="fa-brands fa-github"></i></a></li>
+          <li className="project-textp md:text-3xl sm:text-xl mx-8 my-4 ease-in duration-200 hover:my-1"><a href="mailto:mathesh1907@gmail.com"><i class="fa-solid fa-envelope"></i></a></li>
+          <li className="project-textp md:text-3xl sm:text-xl mx-8 my-4 ease-in duration-200 hover:my-1"><a href="https://leetcode.com/u/Mathesh-Ravichandran/"><i class="fa-brands fa-codepen"></i></a></li>
         </ul>
-      </div>
-
+    </div>
     </div>
   )
 }
