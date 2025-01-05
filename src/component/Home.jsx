@@ -8,7 +8,7 @@ export const Home = () => {
                 <img className="profile-image md:w-64 md:h-[290px] sm:w-64 sm:h-64 max-sm:w-48 max-sm:h-56" src={img} alt="" />
             </div>
             <div className="content-text font-popin">
-                <h2 className=' md:text-4xl sm:text-2xl font-semibold font-tsan'>Hi, I'm<span className='md:text-6xl max-sm:text-4xl font-tsan constex-span'> GUNA M</span></h2>
+                <h2 className=' md:text-4xl sm:text-2xl font-semibold font-tsan'>Hi, I'm<span className='md:text-6xl max-sm:text-4xl font-tsan constex-span'> Mathesh Ravichandran</span></h2>
                 <p className='md:text-2xl sm:text-xs font-semibold pg-text-span'>
                     Delivering dynamic digital experiences through the perfect harmony of <span className='pg-text-span'>design and technology</span>.
                     {/* I’m a seasoned Full-Stack Web Developer specializing in designing and developing seamless digital experiences.From crafting intuitive user interfaces to engineering robust backend systems, I bring creativity and precision to every project I undertake. */}
