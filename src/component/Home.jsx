@@ -6,7 +6,7 @@ export const Home = () => {
              <div id="stars3"></div>
 
             <div className=" visible md:invisible image  md:w-64 md:h-64 max-sm:w-48 max-sm:h-48 mt-12 ">
-                <img className="profile-image md:w-64 md:h-[290px] sm:w-64 sm:h-64 max-sm:w-48 max-sm:h-56" src={img} alt="" />
+                <img className="profile-image md:w-64 md:h-[290px] sm:w-64 sm:h-64 max-sm:w-48 max-sm:h-56" src={img} draggable="false" alt="" />
             </div>
 
             <div className="invisible md:visible z-30 image absolute w-[230px] h-56 md:h-[250px]" >
