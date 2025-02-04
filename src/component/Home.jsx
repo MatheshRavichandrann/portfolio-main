@@ -14,8 +14,8 @@ export const Home = () => {
             </div>
 
             <div className="content-text font-popin ">
-                <h1 className='invisible md:visible md:text-[11rem] lg:text-[9rem] xl:text-[11rem] font-semibold font-bely constex-span relative top-5 '>GUNA</h1>
-                <h1 className='invisible md:visible md:text-[6rem] lg:text-[8rem] xl:text-[11rem]  font-semibold font-bely constex-span relative bottom-5 '>MURUGESAN  </h1>
+                <h1 className='invisible md:visible md:text-[11rem] lg:text-[9rem] xl:text-[11rem] font-semibold font-bely constex-span relative top-5 '>MATHESH</h1>
+                <h1 className='invisible md:visible md:text-[6rem] lg:text-[8rem] xl:text-[11rem]  font-semibold font-bely constex-span relative bottom-5 '>RAVICHANDRAN  </h1>
                 <h2 className='visible md:invisible  text-3xl  font-medium font-bely'>Hi, I'm<span className=' text-6xl  font-bely constex-span'> GUNA </span></h2> 
 
                  <p className=' visible md:invisible  md:text-2xl sm:text-xs font-semibold font-Satoshi pg-text-span'>
