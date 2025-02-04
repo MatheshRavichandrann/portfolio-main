@@ -5,7 +5,7 @@ export const Contact = () => {
     return (
       <div className="min-h-screen  w-screen overflow-hidden relative flex flex-col items-center justify-center">
         {/* Background Grid */}
-        {/* <div className="absolute inset-0 bg-grid opacity-30" /> */}
+        <div className="absolute inset-0 bg-grid opacity-30" />
         
         {/* Accent Circles */}
         <div className="absolute top-30 left-0 w-[500px] h-[400px] bg-[#c16fff]/10 rounded-full blur-[100px]" />
@@ -27,7 +27,7 @@ export const Contact = () => {
                 icon: Linkedin,
                 name: 'LinkedIn',
                 description: 'Professional Profile',
-                href: 'https://linkedin.com/in/guna-murugesan',
+                href: 'https://www.linkedin.com/in/mathesh-ravichandravelu-429a4b240/',
                 color: 'from-blue-400/20 to-blue-600/20',
                 hoverColor: 'group-hover:text-blue-400'
               },
@@ -35,7 +35,7 @@ export const Contact = () => {
                 icon: Github,
                 name: 'GitHub',
                 description: 'Code Portfolio',
-                href: 'https://github.com/gunaasin/',
+                href: 'https://github.com/MatheshRavichandrann',
                 color: 'from-purple-500/20 to-purple-600/20',
                 hoverColor: 'group-hover:text-purple-400'
               },
@@ -43,7 +43,7 @@ export const Contact = () => {
                 icon: Mail,
                 name: 'Email',
                 description: 'Direct Contact',
-                href: 'mailto:guna.asin06@gmail.com',
+                href: 'mailto:mathesh1907@gmail.com',
                 color: 'from-indigo-400/20 to-indigo-600/20',
                 hoverColor: 'group-hover:text-indigo-400'
               }
