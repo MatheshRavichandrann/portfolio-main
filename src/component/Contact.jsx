@@ -51,7 +51,7 @@ export const Contact = () => {
                 icon: CircleDot, // LeetCode icon alternative
                 name: "LeetCode",
                 description: "Algorithm Practice",
-                href: "https://leetcode.com/yourprofile", // Update with your LeetCode profile
+                href: "https://leetcode.com/u/Mathesh-Ravichandran/", // Update with your LeetCode profile
                 color: "from-orange-400/20 to-orange-600/20",
                 hoverColor: "group-hover:text-orange-400",
               },
