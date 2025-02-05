@@ -1,6 +1,6 @@
 "use client";
 import React from "react";
-import { Linkedin, Github, Mail, CircleDot } from 'lucide-react';
+import { Linkedin, Github, Mail, CircleDot, Leetcode } from 'lucide-react';
 export const Contact = () => {
     return (
       <div className="min-h-screen  w-screen overflow-hidden relative flex flex-col items-center justify-center">
@@ -46,7 +46,16 @@ export const Contact = () => {
                 href: 'mailto:mathesh1907@gmail.com',
                 color: 'from-indigo-400/20 to-indigo-600/20',
                 hoverColor: 'group-hover:text-indigo-400'
-              }
+              },
+              {
+                icon: CircleDot, // LeetCode icon alternative
+                name: "LeetCode",
+                description: "Algorithm Practice",
+                href: "https://leetcode.com/yourprofile", // Update with your LeetCode profile
+                color: "from-orange-400/20 to-orange-600/20",
+                hoverColor: "group-hover:text-orange-400",
+              },
+
             ].map((item, index) => (
               <a
                 key={index}
