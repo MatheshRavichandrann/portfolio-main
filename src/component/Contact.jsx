@@ -48,30 +48,30 @@ export const Contact = () => {
                 hoverColor: 'group-hover:text-indigo-400'
               },
               {
-                icon: CircleDot, // LeetCode icon alternative
+                icon: CircleDot,
                 name: "LeetCode",
                 description: "Algorithm Practice",
-                href: "https://leetcode.com/u/Mathesh-Ravichandran/", // Update with your LeetCode profile
-                color: "from-orange-400/20 to-orange-600/20",
-                hoverColor: "group-hover:text-orange-400",
+                href: "https://leetcode.com/u/Mathesh-Ravichandran/",
+                color: "from-black/20 to-orange-600/20", // LeetCode color scheme
+                hoverColor: "group-hover:text-orange-500",
               },
               {
                 icon: Facebook, // LeetCode icon alternative
                 name: "Facebook",
-                description: "Personal Updates, Social Connect",
+                description: "Personal Updates",
                 href: "https://www.facebook.com/3ammadezzz", // Update with your LeetCode profile
-                color: 'from-blue-400/20 to-blue-600/20',
-                hoverColor: 'group-hover:text-blue-400',
+                color: "from-blue-500/20 to-blue-700/20",
+                hoverColor: "group-hover:text-blue-500",
               },
               {
                 icon: Twitter, // LeetCode icon alternative
                 name: "Twitter",
                 description: "Thoughts and Quick Updates",
                 href: "https://x.com/mat33033", // Update with your LeetCode profile
-                color: 'from-blue-400/20 to-blue-600/20',
-                hoverColor: 'group-hover:text-blue-400',
+                color: "from-sky-400/20 to-sky-600/20",
+                hoverColor: "group-hover:text-sky-400",
               },
-              
+
 
             ].map((item, index) => (
               <a
