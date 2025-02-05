@@ -58,7 +58,7 @@ export const Contact = () => {
               {
                 icon: Facebook, // LeetCode icon alternative
                 name: "Facebook",
-                description: "Personal Updates and Social Connect",
+                description: "Personal Updates, Social Connect",
                 href: "https://www.facebook.com/3ammadezzz", // Update with your LeetCode profile
                 color: "from-orange-400/20 to-orange-600/20",
                 hoverColor: "group-hover:text-orange-400",
