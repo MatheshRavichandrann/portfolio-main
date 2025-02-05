@@ -5,8 +5,8 @@ export const Home = () => {
              <div id="stars3"></div>
              <div id="stars3"></div>
 
-             <div className="image md:w-60 md:h-60 max-sm:w-48 max-sm:h-48 mt-14">
-                <img className="profile-image md:w-64 md:h-[290px] sm:w-64 sm:h-64 max-sm:w-48 max-sm:h-56" src={img} alt="" draggable="false" />
+             <div className="image md:w-60 visible md:invisible md:h-60 max-sm:w-48 max-sm:h-48 mt-14">
+                <img className="profile-image md:w-64 md:h-[290px] sm:w-64 sm:h-64 max-sm:w-48 max-sm:h-56" src={img} alt="" draggable="false" style={{ userSelect: "none", pointerEvents: "none", WebkitUserDrag: "none" }} />
             </div>
 
 
