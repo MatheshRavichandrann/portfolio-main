@@ -60,17 +60,18 @@ export const Contact = () => {
                 name: "Facebook",
                 description: "Personal Updates, Social Connect",
                 href: "https://www.facebook.com/3ammadezzz", // Update with your LeetCode profile
-                color: "from-orange-400/20 to-orange-600/20",
-                hoverColor: "group-hover:text-orange-400",
+                color: 'from-blue-400/20 to-blue-600/20',
+                hoverColor: 'group-hover:text-blue-400',
               },
               {
                 icon: Twitter, // LeetCode icon alternative
                 name: "Twitter",
                 description: "Thoughts and Quick Updates",
                 href: "https://x.com/mat33033", // Update with your LeetCode profile
-                color: "from-orange-400/20 to-orange-600/20",
-                hoverColor: "group-hover:text-orange-400",
+                color: 'from-blue-400/20 to-blue-600/20',
+                hoverColor: 'group-hover:text-blue-400',
               },
+              
 
             ].map((item, index) => (
               <a
