@@ -17,8 +17,8 @@ export const Project = () => {
       thumbnail:po1,
     },
     {
-      title: "IETE Design contest",
-      link: "https://fanciful-kitten-2ed1a7.netlify.app/",
+      title: "E-Books",
+      link: "https://glistening-cheesecake-5259a9.netlify.app/login",
       thumbnail:po,
     
     },
