@@ -14,7 +14,6 @@ export const Project = () => {
     {
       title: "Nike",
       link: "https://nikeecomerce.vercel.app/", 
-
       thumbnail:po1,
     },
     {
