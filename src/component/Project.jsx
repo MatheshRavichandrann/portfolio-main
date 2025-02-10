@@ -18,7 +18,7 @@ export const Project = () => {
     },
     {
       title: "E-Books",
-      link: "https://glistening-cheesecake-5259a9.netlify.app/login",
+      link: "https://calm-cactus-1ee1f0.netlify.app/login",
       thumbnail:po,
     
     },
@@ -50,7 +50,7 @@ export const Project = () => {
    
     {
       title: "E-Books",
-      link: "https://glistening-cheesecake-5259a9.netlify.app/login",
+      link: "https://calm-cactus-1ee1f0.netlify.app/login",
       thumbnail:po,
     },
     {
