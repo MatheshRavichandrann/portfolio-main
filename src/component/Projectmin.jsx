@@ -16,7 +16,7 @@ export const Projectmin = () => {
         },
         {
             title: "E-Books",
-            link: "https://calm-cactus-1ee1f0.netlify.app/login",
+            link: "https://tourmaline-axolotl-c1133c.netlify.app/login",
             thumbnail: po,
         },
         {
