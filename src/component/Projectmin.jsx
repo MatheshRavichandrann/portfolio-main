@@ -20,8 +20,8 @@ export const Projectmin = () => {
             thumbnail: po,
         },
         {
-            title: "Pixel Perfect",
-            link: "#",
+            title: "Yum Zoom",
+            link: "https://yumzoom.vercel.app/",
             thumbnail: po5,
         },
         {
@@ -39,8 +39,6 @@ export const Projectmin = () => {
             link: "https://learncode-seven.vercel.app/",
             thumbnail: po2,
         },
-   
-       
         {
             title: "Old portfolio",
             link: "https://project-portfolio-pi-lime.vercel.app/",

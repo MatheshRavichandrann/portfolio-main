@@ -12,9 +12,9 @@ import po6 from '../assets/project/project-seven.png';
 export const Project = () => {
     const products = [
     {
-      title: "Nike",
-      link: "https://nikeecomerce.vercel.app/", 
-      thumbnail:po1,
+      title: "Old portfolio",
+      link: "https://project-portfolio-pi-lime.vercel.app/", 
+      thumbnail:po3,
     },
     {
       title: "E-Books",
@@ -43,15 +43,15 @@ export const Project = () => {
       thumbnail:po3,
     },
     {
-      title: "Pixel Perfect",
-      link: "#",
-      thumbnail:po5,
+      title: "portfolio",
+      link: "https://project-portfolio-pi-lime.vercel.app/",
+      thumbnail:po3,
     },
    
     {
-      title: "E-Books",
-      link: "https://tourmaline-axolotl-c1133c.netlify.app/login",
-      thumbnail:po,
+      title: "Yum Zoom",
+      link: "https://yumzoom.vercel.app/",
+      thumbnail:po5,
     },
     {
       title: "amazon-clone",
@@ -60,9 +60,9 @@ export const Project = () => {
     },
    
     {
-      title: "Game based learning",
-      link: "https://learncode-seven.vercel.app/",
-      thumbnail:po2,
+      title: "E-Books",
+      link: "https://tourmaline-axolotl-c1133c.netlify.app/login",
+      thumbnail:po,
     },
     // {
     //   title: "IETE Design contest",
