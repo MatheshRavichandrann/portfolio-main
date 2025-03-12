@@ -43,7 +43,7 @@ export const Projectmin = () => {
        
         {
             title: "Old portfolio",
-            link: "https://portfolio-website-gunas-projects-2ae16aeb.vercel.app/",
+            link: "https://project-portfolio-pi-lime.vercel.app/",
             thumbnail: po3,
         },
         

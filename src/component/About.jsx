@@ -8,6 +8,8 @@ export const About = () => {
             Every project is a testament to my drive for <span className="pg-text-span"> merging innovation with functionality</span>, delivering solutions that captivate visually and excel technically. From crafting immersive web designs to engineering scalable systems, I am committed to shaping <span className="pg-text-span">  impactful digital landscapes </span> that resonate with users worldwide."
         </p>
     </div>
+    
+
     // <div className="flex flex-col w-screen items-center justify-center my-40">
     //     <p className=" autoBlur leading-10 text-2xl md:text-6xl md:font-semibold sm:text  w-4/5 text-center  tracking-wide  font-tsan project-text-start pg-text-span" >
     //         {/* <TextGenerateEffect words={words} /> */}
