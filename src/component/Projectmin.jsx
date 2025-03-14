@@ -30,8 +30,8 @@ export const Projectmin = () => {
             thumbnail: po6,
         },
         {
-            title: "Nike",
-            link: "https://nikeecomerce.vercel.app/",
+            title: "ZenSushi",
+            link: "https://frolicking-blancmange-7e4d30.netlify.app/",
             thumbnail: po1,
         },
         {

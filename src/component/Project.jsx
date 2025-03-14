@@ -17,14 +17,17 @@ export const Project = () => {
       thumbnail:po3,
     },
     {
-      title: "E-Books",
-      link: "https://tourmaline-axolotl-c1133c.netlify.app/login",
-      thumbnail:po,
+      // title: "E-Books",
+      // link: "https://tourmaline-axolotl-c1133c.netlify.app/login",
+      // thumbnail:po,.
+      title: "portfolio",
+      link: "https://project-portfolio-pi-lime.vercel.app/",
+      thumbnail:po3,
     
     },
     {
-      title: "Nike",
-      link: "https://nikeecomerce.vercel.app/",
+      title: "ZenSushi",
+      link: "https://frolicking-blancmange-7e4d30.netlify.app/",
       thumbnail:po1,
     },
     {
